@@ -1,0 +1,1 @@
+See the depository for a series of Techtalk discussions that support a like YouTube channel of the same name. The talks are essays about technical topic that are embellished via the matching YouTube video where demo video is available along with a power point discussion.
