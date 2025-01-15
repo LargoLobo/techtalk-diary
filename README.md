@@ -1,1 +1,1 @@
-I've included in the depository a series of Techtalk discussions that support a YouTube channel of the same name. The talks are essays about technical topics that are embellished via the matching YouTube video where a demo video is available along with a power point discussion.
+I've included in the depository a series of Techtalk-Diary discussions that support a YouTube channel of the same name. The talks are essays about technical topics that are embellished via the matching YouTube video where a demo video is available along with a power-point discussion.
